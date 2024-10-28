@@ -14,4 +14,4 @@ Comandos iniciais ao criar um Repositório git.
 git init
 touch README.md
 ```
-Logo após você modifica o README colocando as informações necessárias.
+Logo após você modifica o README colocando as informações necessárias. BLA BLA BLA
