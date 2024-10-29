@@ -15,3 +15,5 @@ git init
 touch README.md
 ```
 Logo após você modifica o README colocando as informações necessárias. BLA BLA BLA
+
+commit antes do clone
