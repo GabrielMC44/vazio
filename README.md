@@ -16,4 +16,8 @@ touch README.md
 ```
 Logo após você modifica o README colocando as informações necessárias. BLA BLA BLA
 
+<<<<<<< HEAD
 commit depois do clone
+=======
+commit desois do clone
+>>>>>>> c6a51ee4477a8deeb9f02e2d7155e84406955524
